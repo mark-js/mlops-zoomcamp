@@ -12,7 +12,7 @@
 	"forwardPorts": [8888],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "pip3 install --user -r requirements.txt && jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser"
+	"postCreateCommand": "pip3 install --user -r requirements.txt"
 
 	// Configure tool-specific properties.
 	// "customizations": {},

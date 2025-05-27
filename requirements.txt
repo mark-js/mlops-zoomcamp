@@ -4,4 +4,4 @@ pandas
 scikit-learn
 polars
 seaborn
-mflow
+mlflow
